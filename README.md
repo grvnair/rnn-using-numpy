@@ -1,2 +1,4 @@
 # rnn-using-numpy
-Built a simple RNN Model using NumPy
+Recurrent Neural Network from scratch in Python using Numpy with forward and backpropagation through time.
+
+Read detailed blog on Medium: https://medium.com/towards-artificial-intelligence/unlocking-the-power-of-recurrent-neural-networks-a-beginners-guide-46956618a959
